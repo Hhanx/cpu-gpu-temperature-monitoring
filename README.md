@@ -6,7 +6,6 @@
 --
 --
 会在c盘创建一个文件
---
 <img width="1263" height="464" alt="image" src="https://github.com/user-attachments/assets/f103d2a1-99c7-479c-ad0d-301fe4b26ba7" />
 --
 就说这么多，大家尽情享用
